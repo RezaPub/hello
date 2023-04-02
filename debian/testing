@@ -1,0 +1,4 @@
+#!/bin/sh
+
+exec echo -e "this is a test for Reza Mardani\n" >&2
+
